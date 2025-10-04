@@ -184,6 +184,10 @@ final class AppSettings {
     var mqttClientIdPrefix: String = "ios-"
     var httpBaseURL: String?
     var httpHeadersText: String = ""
+    
+    // AI配置
+    var aiBaseURL: String? // 豆包Ark API端点
+    var aiModelName: String = "ep-20250717003424-g4btn" // 默认使用示例接入点ID
 
     init(mqttHost: String = "mqtt.aimaker.space",
          mqttPort: Int = 8084,
@@ -193,7 +197,9 @@ final class AppSettings {
          mqttUsername: String? = nil,
          mqttClientIdPrefix: String = "ios-",
          httpBaseURL: String? = nil,
-         httpHeadersText: String = "") {
+         httpHeadersText: String = "",
+         aiBaseURL: String? = nil,
+         aiModelName: String = "ep-20250717003424-g4btn") {
         self.mqttHost = mqttHost
         self.mqttPort = mqttPort
         self.mqttUseTLS = mqttUseTLS
@@ -203,5 +209,7 @@ final class AppSettings {
         self.mqttClientIdPrefix = mqttClientIdPrefix
         self.httpBaseURL = httpBaseURL
         self.httpHeadersText = httpHeadersText
+        self.aiBaseURL = aiBaseURL
+        self.aiModelName = aiModelName
     }
 }

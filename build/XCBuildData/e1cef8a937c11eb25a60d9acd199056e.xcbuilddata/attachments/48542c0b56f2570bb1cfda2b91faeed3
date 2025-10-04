@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_home-master.dia",
+    "emit-module-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_home-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_home-master-emit-module.dia",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_home-master.swiftdeps"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/AddDeviceView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AddDeviceView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/ai_homeApp.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ai_homeApp~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/AIService.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/AIService~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/ContentView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/DeviceDetailView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceDetailView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/DeviceListView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/DeviceListView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/HTTPClient.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/HTTPClient~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/KeychainHelper.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/KeychainHelper~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/Models.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/MQTTManager.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTManager~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/MQTTWebSocketTransport.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/MQTTWebSocketTransport~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/RootTabView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/RootTabView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/ai_home/SettingsView.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/schen/Documents/MyProjects/ai_home/build/ai_home.build/Debug/ai_home.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

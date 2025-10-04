@@ -29,6 +29,7 @@ private struct SettingsDetailView: View {
 
     @State private var mqttPassword: String = KeychainHelper.read("mqtt_password") ?? ""
     @State private var httpToken: String = KeychainHelper.read("http_token") ?? ""
+    @State private var aiToken: String = KeychainHelper.read("doubao_api_key") ?? ""
 
     var body: some View {
         Form {
@@ -92,6 +93,33 @@ private struct SettingsDetailView: View {
                     try? context.save()
                 }
             }
+            
+            Section("豆包 AI 控制") {
+                TextField("API 端点", text: Binding(
+                    get: { settings.aiBaseURL ?? "" },
+                    set: { value in
+                        settings.aiBaseURL = value.isEmpty ? nil : value
+                        try? context.save()
+                    }
+                ), prompt: Text("https://ark.cn-beijing.volces.com/api/v3/chat/completions"))
+                .textInputAutocapitalization(.never)
+                .autocorrectionDisabled()
+                
+                TextField("模型/接入点 ID", text: $settings.aiModelName)
+                    .textInputAutocapitalization(.never)
+                    .autocorrectionDisabled()
+                
+                SecureField("API Key（Keychain）", text: $aiToken)
+                
+                Button("保存 AI 配置") {
+                    KeychainHelper.save(aiToken, for: "doubao_api_key")
+                    try? context.save()
+                }
+                
+                Text("配置豆包 Ark API 后，可在设备页面使用自然语言控制设备")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
         }
         .navigationTitle("设置")
         .onChange(of: settings.mqttHost) { _, _ in try? context.save() }
@@ -101,5 +129,7 @@ private struct SettingsDetailView: View {
         .onChange(of: settings.mqttWebSocketPath) { _, _ in try? context.save() }
         .onChange(of: settings.mqttClientIdPrefix) { _, _ in try? context.save() }
         .onChange(of: settings.httpHeadersText) { _, _ in try? context.save() }
+        .onChange(of: settings.aiBaseURL) { _, _ in try? context.save() }
+        .onChange(of: settings.aiModelName) { _, _ in try? context.save() }
     }
 }

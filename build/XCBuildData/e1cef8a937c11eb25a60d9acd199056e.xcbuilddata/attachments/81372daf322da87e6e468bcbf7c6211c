@@ -1,0 +1,4 @@
+module MqttCocoaAsyncSocket {
+umbrella "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/MqttCocoaAsyncSocket/Source/GCD"
+export *
+}

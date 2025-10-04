@@ -1,6 +1,5 @@
 import SwiftUI
 import SwiftData
-import UIKit
 
 struct DeviceDetailView: View {
     @Environment(\.modelContext) private var context
@@ -15,6 +14,7 @@ struct DeviceDetailView: View {
     var body: some View {
         Form {
             basicSection
+            
             if device.controlChannel == .mqtt {
                 mqttSection
             } else {
@@ -60,7 +60,7 @@ struct DeviceDetailView: View {
             }
         }
     }
-
+    
     private var mqttSection: some View {
         Section("MQTT 控制") {
             if let config = device.mqttConfig {
@@ -188,7 +188,6 @@ private struct ControlActionTile: View {
         .frame(maxWidth: .infinity, minHeight: minHeight)
         .contentShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
         .onTapGesture {
-            UISelectionFeedbackGenerator().selectionChanged()
             tap()
         }
         .onLongPressGesture(minimumDuration: .infinity, pressing: { pressing in
@@ -232,12 +231,10 @@ struct EditDeviceView: View {
                         .disabled(true)
                     TextField("显示名称", text: $name)
                     TextField("控制主题", text: $controlTopic)
-                        .textInputAutocapitalization(.never)
-                        .autocorrectionDisabled()
+                        .disableAutocorrection(true)
                     TextField("状态主题（可选）", text: $stateTopic)
-                        .textInputAutocapitalization(.never)
-                        .autocorrectionDisabled()
-                        .foregroundStyle(.secondary)
+                        .disableAutocorrection(true)
+                        .foregroundColor(.secondary)
                 }
 
                 Section("控制列表") {

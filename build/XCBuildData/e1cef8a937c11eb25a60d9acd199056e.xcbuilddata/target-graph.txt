@@ -1,0 +1,18 @@
+Target dependency graph (8 targets)
+Target 'ai_home' in project 'ai_home'
+➜ Explicit dependency on target 'CocoaMQTT' in project 'CocoaMQTT'
+➜ Explicit dependency on target 'Starscream' in project 'Starscream'
+Target 'Starscream' in project 'Starscream'
+➜ Explicit dependency on target 'Starscream' in project 'Starscream'
+➜ Explicit dependency on target 'Starscream_Starscream' in project 'Starscream'
+Target 'Starscream' in project 'Starscream'
+➜ Explicit dependency on target 'Starscream_Starscream' in project 'Starscream'
+Target 'Starscream_Starscream' in project 'Starscream' (no dependencies)
+Target 'CocoaMQTT' in project 'CocoaMQTT'
+➜ Explicit dependency on target 'CocoaMQTT' in project 'CocoaMQTT'
+➜ Explicit dependency on target 'MqttCocoaAsyncSocket' in project 'MqttCocoaAsyncSocket'
+Target 'CocoaMQTT' in project 'CocoaMQTT'
+➜ Explicit dependency on target 'MqttCocoaAsyncSocket' in project 'MqttCocoaAsyncSocket'
+Target 'MqttCocoaAsyncSocket' in project 'MqttCocoaAsyncSocket'
+➜ Explicit dependency on target 'MqttCocoaAsyncSocket' in project 'MqttCocoaAsyncSocket'
+Target 'MqttCocoaAsyncSocket' in project 'MqttCocoaAsyncSocket' (no dependencies)

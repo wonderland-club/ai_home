@@ -1,0 +1,218 @@
+{
+  "" : {
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Starscream-master.dia",
+    "emit-module-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Starscream-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Starscream-master-emit-module.dia",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Starscream-master.swiftdeps"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Compression/Compression.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Compression~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Compression/WSCompression.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSCompression~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/DataBytes/Data+Extensions.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Data+Extensions~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Engine/Engine.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Engine~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Engine/NativeEngine.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/NativeEngine~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Engine/WSEngine.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WSEngine~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/FoundationHTTPHandler.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPHandler~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/FoundationHTTPServerHandler.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationHTTPServerHandler~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/FrameCollector.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FrameCollector~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/Framer.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Framer~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/HTTPHandler.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/HTTPHandler~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Framer/StringHTTPHandler.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/StringHTTPHandler~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Security/FoundationSecurity.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationSecurity~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Security/Security.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Security~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Server/Server.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Server~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Server/WebSocketServer.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocketServer~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Starscream/WebSocket.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/WebSocket~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Transport/FoundationTransport.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/FoundationTransport~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Transport/TCPTransport.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/TCPTransport~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/Sources/Transport/Transport.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.dia",
+    "index-unit-output-path" : "/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/Starscream/build/Starscream.build/Debug/Starscream.build/Objects-normal/x86_64/Transport~partial.swiftmodule"
+  }
+}

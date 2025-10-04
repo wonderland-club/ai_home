@@ -1,0 +1,428 @@
+{
+  "" : {
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT-master.dia",
+    "emit-module-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT-master-emit-module.dia",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT-master.swiftdeps"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTT.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTT5.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTT5Message.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTT5Message~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTDeliver.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTDeliver~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTLogger.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTLogger~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTMessage.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTMessage~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTProperty.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTProperty~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTReader.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReader~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTReasonCode.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTReasonCode~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTSocket.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTSocket~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTStorage.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTStorage~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTTimer.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTimer~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/CocoaMQTTTypes.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/CocoaMQTTTypes~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/Frame.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/Frame~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameAuth.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameAuth~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameConnAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameConnect.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameConnect~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameDisconnect.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameDisconnect~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePingReq.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingReq~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePingResp.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePingResp~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePubComp.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubComp~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePublish.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePublish~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePubRec.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRec~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FramePubRel.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FramePubRel~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameSubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameSubscribe.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameSubscribe~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameUnsubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/FrameUnsubscribe.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/FrameUnsubscribe~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttAuthProperties.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttAuthProperties~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttConnectProperties.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttConnectProperties~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodeConnAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeConnAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodePubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodePubComp.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubComp~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodePublish.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePublish~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodePubRec.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRec~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodePubRel.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodePubRel~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodeSubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeSubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttDecodeUnsubAck.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttDecodeUnsubAck~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttPublishProperties.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttPublishProperties~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/MqttSubscription.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/MqttSubscription~partial.swiftmodule"
+  },
+  "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/Source/ThreadSafeDictionary.swift" : {
+    "const-values" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.swiftconstvalues",
+    "dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.d",
+    "diagnostics" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.dia",
+    "index-unit-output-path" : "/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.o",
+    "llvm-bc" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.bc",
+    "object" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.o",
+    "swift-dependencies" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary.swiftdeps",
+    "swiftmodule" : "/Users/schen/Library/Developer/Xcode/DerivedData/ai_home-bgfjqfrsqzhphihjbkpswdlnqxoq/SourcePackages/checkouts/CocoaMQTT/build/CocoaMQTT.build/Debug/CocoaMQTT.build/Objects-normal/x86_64/ThreadSafeDictionary~partial.swiftmodule"
+  }
+}

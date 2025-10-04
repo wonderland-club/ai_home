@@ -80,16 +80,13 @@ struct AddDeviceView: View {
             Form {
                 Section("基础") {
                     TextField("设备标识", text: $deviceIdentifier)
-                        .textInputAutocapitalization(.never)
-                        .autocorrectionDisabled()
+                        .disableAutocorrection(true)
                     TextField("显示名称", text: $name)
                     TextField("控制主题", text: $controlTopic)
-                        .textInputAutocapitalization(.never)
-                        .autocorrectionDisabled()
+                        .disableAutocorrection(true)
                     TextField("状态主题（可选）", text: $stateTopic)
-                        .textInputAutocapitalization(.never)
-                        .autocorrectionDisabled()
-                        .foregroundStyle(.secondary)
+                        .disableAutocorrection(true)
+                        .foregroundColor(.secondary)
                 }
 
                 Section(header: Text("控制列表")) {
@@ -221,9 +218,8 @@ struct ControlEditor: View {
             }
             TextField("控制名称", text: $control.label)
             TextField("Topic 后缀", text: $control.topicSuffix)
-                .textInputAutocapitalization(.never)
-                .autocorrectionDisabled()
-                .foregroundStyle(.secondary)
+                .disableAutocorrection(true)
+                .foregroundColor(.secondary)
             ForEach(Array(control.actions.enumerated()), id: \.element.id) { actionIndex, action in
                 ActionEditor(index: actionIndex,
                              action: Binding(
@@ -263,8 +259,7 @@ struct ActionEditor: View {
             }
             TextField("动作名称", text: $action.label)
             TextField("MQTT Payload", text: $action.payload)
-                .textInputAutocapitalization(.never)
-                .autocorrectionDisabled()
+                .disableAutocorrection(true)
         }
         .padding(.leading, 8)
     }
